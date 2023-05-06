@@ -1,3 +1,8 @@
+<h1> Video </h1>
+
+
+[![Video Label](http://img.youtube.com/watch?v=jlEddtRgM8g&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=jlEddtRgM8g&feature=youtu.be)
+
 ## setting 할때 필요한 사항
 
 1. MYSQL 연결 정보 단톡방 확인<br><br>
